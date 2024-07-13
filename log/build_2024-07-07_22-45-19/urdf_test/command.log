@@ -1,0 +1,4 @@
+Invoking command in '/home/amisha/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/amisha/ws_urdf/build/urdf_test -- -j2 -l2
+Invoked command in '/home/amisha/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/amisha/ws_urdf/build/urdf_test -- -j2 -l2
+Invoking command in '/home/amisha/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/amisha/ws_urdf/build/urdf_test
+Invoked command in '/home/amisha/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/amisha/ws_urdf/build/urdf_test

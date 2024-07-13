@@ -1,0 +1,17 @@
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/launch/display.launch.py
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/urdf/model.urdf
+/home/amisha/ws_urdf/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+/home/amisha/ws_urdf/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/environment/path.sh
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/environment/path.dsv
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/local_setup.bash
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/local_setup.sh
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/local_setup.zsh
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/local_setup.dsv
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/package.dsv
+/home/amisha/ws_urdf/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+/home/amisha/ws_urdf/install/urdf_test/share/urdf_test/package.xml
